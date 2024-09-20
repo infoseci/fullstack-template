@@ -36,7 +36,7 @@ And run database migrations with this command:
 ```
 bin/cakephp migrations migrate
 ```
-!Warning! The following will NOT work even though it's how Cake's docs say to run it and how we run cake commands in IQ
+!Warning! The following will NOT work even though it's how Cake's docs say to run it
 ```
 bin/cake migrations migrate
 ```
